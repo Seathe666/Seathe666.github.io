@@ -12,14 +12,14 @@
 
 # theme                  : 
 # remote_theme           : "mmistakes/minimal-mistakes@4.22.0
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Daves Mods"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Dave Jones"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -30,7 +30,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -38,8 +38,8 @@ comments:
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    num_posts            : 5 # 5 (default)
+    colorscheme          : "dark" # "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
@@ -71,7 +71,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "@ThroughTheDust"
 facebook:
   username               :
   app_id                 :
@@ -94,15 +94,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "David"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Canada"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "mailto:Davidsheets4@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -114,7 +114,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/seathe666"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
