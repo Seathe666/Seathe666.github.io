@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "New Mod in the making!"
 ---
 
 # Welcome
